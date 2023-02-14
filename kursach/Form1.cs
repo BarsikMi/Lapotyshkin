@@ -77,7 +77,7 @@ namespace kursach
             radioButton4.Text = "Отчество";
             radioButton5.Text = "Год зачисления";
             radioButton6.Text = "Форма обучения";
-            radioButton8.Text = "Группа";
+            radioButton8.Text = "Group";
             radioButton3.Visible = false;
             radioButton4.Visible = false;
             radioButton6.Visible = true;
