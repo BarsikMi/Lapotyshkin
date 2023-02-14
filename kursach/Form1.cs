@@ -72,7 +72,7 @@ namespace kursach
             dataGridView1.Visible = false;
             dataGridView2.Visible = true;
             dataGridView3.Visible = false;
-            radioButton2.Text = "Фамилия";
+            radioButton2.Text = "Last name";
             radioButton3.Text = "Имя";
             radioButton4.Text = "Отчество";
             radioButton5.Text = "Год зачисления";
